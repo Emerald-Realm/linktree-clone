@@ -42,7 +42,7 @@ export default function App() {
     <main>
       <div className='inner'>
         <div>
-          <img id="profile__img" src="../Profile%20pic%20.png" />
+          <img id="profile__img" src="../public/Profile%20pic%20.png" />
           <h3>Praise Oyegoke</h3>
           <div className='links'>
             {
@@ -52,18 +52,18 @@ export default function App() {
           </div>
           <div className='icons'>
             <a href="">
-              <img className='logo' src='../slack.png' />
+              <img className='logo' src='../public/slack.png' />
             </a>
             <a href="https://github.com/Emerald-Realm">
-              <img className='logo' src='../Social%20icon.png' />
+              <img className='logo' src='../public/Social%20icon.png' />
             </a>
           </div>
         </div>
 
         <footer>
-          <img className='logo' src='../Zuri.Internship_Logo.png' />
+          <img className='logo' src='../public/Zuri.Internship_Logo.png' />
           <p>HNG Internship 9 frontend Task</p>
-          <img className='logo' src='../I4G.png' />
+          <img className='logo' src='../public/I4G.png' />
         </footer>
       </div>
 
