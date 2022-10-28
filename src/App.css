@@ -61,8 +61,7 @@ footer{
    width: 90vw;
  } 
 
-.footer {
-  background-color: blue;
+footer {
   flex-direction: column;
   }
 }

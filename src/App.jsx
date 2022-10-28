@@ -54,7 +54,7 @@ export default function App() {
             <a href="">
               <img className='logo' src='../slack.png' />
             </a>
-            <a href="">
+            <a href="https://github.com/Emerald-Realm">
               <img className='logo' src='../Social%20icon.png' />
             </a>
           </div>
