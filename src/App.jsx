@@ -22,7 +22,7 @@ export default function App() {
   }
   let python = {
     id: 'book_python',
-    link: 'https://books.zuri.team/python-for-beginners?ref_id=<yourslackname>',
+    link: 'https://books.zuri.team/python-for-beginners?ref_id=praise',
     text: 'Get Python for Beginners'
   }
   let background = {
